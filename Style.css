@@ -1,0 +1,24 @@
+body{
+    background-image:url(colorful-lakeside-3840x2160-18705.jpg);
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    margin: 30%;
+    height:40px;
+}
+@font-face {
+    font-family:Unix;
+    src: url(Bonello-Regular.otf);
+}
+h2{
+    font-family:Unix;
+    color: rgb(255, 255, 255);
+    text-align: center;
+
+    
+}
+form{
+    font-family:Unix;
+    align-items: center;
+    color: rgb(255, 255, 255);
+}
